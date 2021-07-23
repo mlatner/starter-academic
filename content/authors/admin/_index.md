@@ -10,7 +10,7 @@ role: Professor of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Caliifornia Polytechnic State University, San Luis Obispo
+- name: California Polytechnic State University, San Luis Obispo
   url: https://politicalscience.calpoly.edu
 
 - name: Center for Science and Democracy, Union of Concerned Scientists
