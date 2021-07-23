@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Michael Latner is a professor of political science at Cal Poly San Luis Obispo. His research interests include voting rights, representation and electoral system design. He is a Senior Fellow at the Union of Concerned Scientists' Center for Science snd Democracy, and serves as a faculty scholar at Cal Polys' Institute for Advanced Technology and Public Policy.
+Michael Latner is a professor of political science at Cal Poly San Luis Obispo. His research interests include voting rights, representation and electoral system design. He is a Senior Fellow at the Union of Concerned Scientists' Center for Science and Democracy, and serves as a faculty scholar at the Cal Poly Institute for Advanced Technology and Public Policy.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
