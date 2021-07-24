@@ -36,4 +36,5 @@ publication_types:
 - '5'
 abstract: ''
 publication: '*Cambridge University Press*'
+urlpdf: https://www.cambridge.org/core/books/gerrymandering-in-america/C2A9A40879A353AC7484B49834CB54E4
 ---
