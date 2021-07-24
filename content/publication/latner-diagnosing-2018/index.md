@@ -32,5 +32,5 @@ publication_types:
 - '6'
 abstract: ''
 publication: '*Electoral Integrity in America: Securing Democracy*'
-url_pdf: https://www.electoralintegrityproject.com/electoral-integrity-in-america
+url_pdf: https://oxford.universitypressscholarship.com/view/10.1093/oso/9780190934163.001.0001/oso-9780190934163
 ---

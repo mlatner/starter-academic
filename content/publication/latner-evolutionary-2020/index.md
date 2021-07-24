@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ‪Evolutionary Psychology and Political Institutions‬
+title: ‪Evolutionary Psychology and Political Institutions‬, '‪The SAGE Handbook of Evolutionary Psychology: Applications of Evolutionary …,
+  2020‬'
 subtitle: ''
 summary: ''
 authors:
@@ -31,8 +32,7 @@ projects: []
 publishDate: '2021-07-23T20:12:18.489518Z'
 publication_types:
 - '0'
-abstract: '‪The SAGE Handbook of Evolutionary Psychology: Applications of Evolutionary …,
-  2020‬'
-publication: ''
+abstract: Biology and political science have a long, symbiotic relationship in their shared focus on conflict and cooperation between organisms. Many of the major puzzles in biology and political science, from the emergence of cooperation, and the threat of parasitism and selfishness, to the dynamics of collective decision making and the evolution of morality, are interwoven in early, pre-Darwinian works. As these areas of study developed into separate professional disciplines in the early 20th century, they would part ways with considerable tension before returning to such fundamentals with the advent of modern evolutionary psychology. In this chapter, we survey the literature surrounding three major areas where ...
+publication: 'The SAGE Handbook of Evolutionary Psychology: Applications of Evolutionary …,'
 url_pdf: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=WESqQykAAAAJ&sortby=pubdate&citation_for_view=WESqQykAAAAJ:dhFuZR0502QC
 ---

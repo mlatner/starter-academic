@@ -39,4 +39,5 @@ abstract: ''
 publication: '*UCLA Latino Policy and Politics Initiative, A Joint Project with the
   Union of Concerned Scientists and The University of New Mexico Center for Social
   Policy*'
+urlpdf: http://lppi.sites.luskin.ucla.edu/wp-content/uploads/2021/06/UCLA-VRP-Memo-on-HR1.pdf
 ---
